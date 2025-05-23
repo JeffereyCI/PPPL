@@ -1,10 +1,6 @@
 ### Implementasi Strategy Design Pattern
 **pada aplikasi kalkulator sederhana**
 
-### Studi Kasus
-
-Buatlah aplikasi kalkulator sederhana yang dapat melakukan operasi matematika dasar (penjumlahan, pengurangan, perkalian, dan pembagian).
-
 ### Struktur Komponen
 
 - **Strategy (Interface):**  
