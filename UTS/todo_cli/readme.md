@@ -1,20 +1,5 @@
-COMMAND DESIGN PATTERN
-
-terdiri dari 3 komponen utama yaitu
-1. Subject (Interface)
-2. Calculator (Context)
-3. Operasi math (Concrete Strategy)
-
-alur strategy design pattern:
-
-user (main) -> (memilih operasi) -> set strategy (Calculator) -> input nilai -> Concrete Strategy (mengeksekusi operasi math) -> menampilkan hasil
-
 ### Implementasi Command Design Pattern
 **pada aplikasi todo list sederhana**
-
-### Studi Kasus
-
-Buatlah aplikasi todo list yang dapat melakukan operasi dasar seperti menambah, menghapus, dan menandai tugas sebagai selesai.
 
 ### Struktur Komponen
 
